@@ -1,2 +1,2 @@
 # Code_in_class
-Hera are the codes for he Data Visualization class
+This is the repo for Data Visualization class 2022S2
